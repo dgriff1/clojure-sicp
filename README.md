@@ -1,5 +1,7 @@
 # clojure-sicp
 
+http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+
 Working through the sicp examples and problems
 Converting the answers to Clojure
 
